@@ -1,4 +1,14 @@
 # Changelog
+## Release (2024-03-12)
+
+auto-reveal 0.1.1 (patch)
+
+#### :house: Internal
+* `auto-reveal`
+  * [#6](https://github.com/pichfl/auto-reveal/pull/6) Add README, Run Formatter ([@pichfl](https://github.com/pichfl))
+
+#### Committers: 1
+- Florian Pichler ([@pichfl](https://github.com/pichfl))
 ## Release (2024-02-02)
 
 auto-reveal 0.1.0 (minor)
