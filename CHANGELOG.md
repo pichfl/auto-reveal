@@ -1,4 +1,24 @@
 # Changelog
+
+## Release (2024-08-09)
+
+auto-reveal 0.3.0 (minor)
+
+#### :rocket: Enhancement
+* `auto-reveal`
+  * [#32](https://github.com/mainmatter/auto-reveal/pull/32) Add argument for output directory ([@pichfl](https://github.com/pichfl))
+  * [#25](https://github.com/mainmatter/auto-reveal/pull/25) Update README with License and Copyright ([@pichfl](https://github.com/pichfl))
+
+#### :house: Internal
+* `auto-reveal`
+  * [#29](https://github.com/mainmatter/auto-reveal/pull/29) Update dependencies ([@pichfl](https://github.com/pichfl))
+  * [#30](https://github.com/mainmatter/auto-reveal/pull/30) fix the trigger for the lint CI job ([@mansona](https://github.com/mansona))
+  * [#28](https://github.com/mainmatter/auto-reveal/pull/28) Internal: Add Lint action ([@pichfl](https://github.com/pichfl))
+  * [#18](https://github.com/mainmatter/auto-reveal/pull/18) update release-plan ([@mansona](https://github.com/mansona))
+
+#### Committers: 2
+- Chris Manson ([@mansona](https://github.com/mansona))
+- Florian Pichler ([@pichfl](https://github.com/pichfl))
 ## Release (2024-07-24)
 
 auto-reveal 0.2.1 (patch)
